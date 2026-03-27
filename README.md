@@ -7,7 +7,7 @@ The project focuses on both the baseline framework proposed by Bansal and Yaron 
 ## 📄 Repository Structure
 
 * **`Replication_Project_LongRunRisks_Pliszczak.pdf`**: The comprehensive analytical report. It contains the derivations of the pricing kernel, the risk-free rate, and the equity premium under recursive (Epstein-Zin) preferences, alongside a detailed discussion of the empirical findings.
-* **`replication_long_run_risks.ipynb`**: The core Jupyter Notebook. It includes the fixed-point numerical solutions, Monte Carlo simulations, and the predictive regressions framework.
+* **`Replication_Project_LongRunRisks_Pliszczak.ipynb`**: The core Jupyter Notebook. It includes the fixed-point numerical solutions, Monte Carlo simulations, and the predictive regressions framework.
 * **`ie_data.xls`**: The historical macro-financial dataset provided by Robert Shiller, used to reconstruct the empirical asset pricing moments.
 
 ## ⚙️ Computational Methodology
