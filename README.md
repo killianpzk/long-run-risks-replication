@@ -2,7 +2,7 @@
 
 This repository contains the Python codebase and historical data used to replicate, simulate, and empirically assess the Long-Run Risks (LRR) asset pricing model. 
 
-The project focuses on both the baseline framework proposed by Bansal and Yaron (2004) and its extension featuring stochastic volatility, as developed by Bansal, Kiku, and Yaron (2010). This repository serves as the computational companion to the analytical report provided in my application materials.
+The project focuses on both the baseline framework proposed by Bansal and Yaron (2004) and its extension featuring stochastic volatility, as developed by Bansal, Kiku, and Yaron (2010). This repository serves as the computational companion to the analytical report provided.
 
 ## 📄 Repository Structure
 
