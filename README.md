@@ -15,7 +15,7 @@ The project focuses on both the baseline framework proposed by Bansal and Yaron 
 The code is structured around two main quantitative tasks:
 
 1. **Numerical Calibration & Simulation**
-   * Solves the model's complex fixed-point equations for both the BY (2004) and BKY (2010) parametrizations using an iterative convergence algorithm (`tol=1e-8`).
+   * Solves the model's complex fixed-point equations for both the BY (2004) and BKY (2010) parametrizations using an iterative convergence algorithm.
    * Runs large-scale Monte Carlo simulations (100,000 paths) to generate model-implied unconditional moments (e.g., expected equity premium, risk-free rate, and price-dividend ratio).
    * Random seeds are strictly enforced to ensure full reproducibility of the research outputs.
 
